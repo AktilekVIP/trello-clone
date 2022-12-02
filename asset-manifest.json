@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trello-clone/static/css/main.32293a97.css",
+    "main.js": "/trello-clone/static/js/main.25b5d8d8.js",
+    "static/media/1.jpg": "/trello-clone/static/media/1.8725fffff317badc8810.jpg",
+    "static/media/trello-logo.svg": "/trello-clone/static/media/trello-logo.706a3a2e2b0f887ca156f5d28e9248b2.svg",
+    "index.html": "/trello-clone/index.html",
+    "main.32293a97.css.map": "/trello-clone/static/css/main.32293a97.css.map",
+    "main.25b5d8d8.js.map": "/trello-clone/static/js/main.25b5d8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32293a97.css",
+    "static/js/main.25b5d8d8.js"
+  ]
+}
